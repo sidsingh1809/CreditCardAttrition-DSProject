@@ -1,5 +1,5 @@
 # Credit Card Attrition - Data Science Project
-Data Science for Business : Technical TECH-GB-2336
+Data Science for Business : Technical TECH-GB-2336 [Feb 2024 - May 2024]
 
 Link to Dataset - https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/data
 
